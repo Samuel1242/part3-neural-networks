@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(rgba(0, 102, 255, 0.952), rgb(0, 204, 255), rgb(255, 255, 255));
+}
+.btn btn-primary{
+        color: white;  
+        font-family: 'Akaya Telivigala', cursive;
+        font-size: 20px;
+}
